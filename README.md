@@ -1,6 +1,6 @@
 # bmi
 
-A new Flutter project.
+A simple UI Based app where you can choose gender, set your height,weight,age using the buttons and get the BMI.
 
 ## Getting Started
 
